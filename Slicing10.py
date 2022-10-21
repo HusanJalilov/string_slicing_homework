@@ -8,4 +8,4 @@ def main(s,n,k):
     Returns:
         str: answer
     """
-    return s[n+1:k]
+    return s[n:k]
